@@ -61,7 +61,7 @@ MATLAB-based analysis of Butterworth low-pass filters (orders 1–5) with visual
 
 ## Project Documentation
 
-For in-depth theoretical background, methodology, and visual results, see the full [Project Report](docs/COMPUTATIONAL_TECHNIQUES_PROJECT_FINAL_REPORT.docx).
+For in-depth theoretical background, methodology, and visual results, see the full [Project Report](docs/Butterworth_Filter_Analysis_Report.pdf).
 
 ---
 
